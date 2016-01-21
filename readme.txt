@@ -9,3 +9,6 @@ add line at master branch
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature
+1
+1
+1
